@@ -43,7 +43,7 @@ void setup() {
   }
 
   // Uncomment ONE TIME to set RTC to current computer time
-  rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
+  //rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
 }
 
 void loop() {
