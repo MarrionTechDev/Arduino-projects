@@ -1,5 +1,5 @@
 ### Arduino Alarm Clock
-A simple alarm clock built using Arduino and basic hardware components.
+A simple alarm clock built using Arduino and basic hardware components. [View Image](Images/20251206_172804.jpg)
 
 ##Components
 - Arduino UNO
