@@ -43,6 +43,7 @@ void setup() {
   }
 
   // Uncomment ONE TIME to set RTC to current computer time
+  // Comment back and then compile again.
   //rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
 }
 
