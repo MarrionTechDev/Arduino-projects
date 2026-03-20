@@ -8,7 +8,7 @@ A simple alarm clock built using Arduino and basic hardware components. [View Im
 - Male and Female Jumper Wires
 - RTC Module Clock DS3231
 - Power Cable for Arduino
-  [View Image](Images/2026-03-20.jpeg)
+  [View Image](Images/2026-03-20 .jpeg)
 
 ## Software
 - Arduino IDE
